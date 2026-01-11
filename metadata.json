@@ -1,0 +1,8 @@
+
+{
+  "name": "AAV Volleyball Agency",
+  "description": "Premium volleyball-only agency providing elite training, performance analysis, branding, and career management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
